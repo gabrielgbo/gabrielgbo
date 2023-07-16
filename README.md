@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielgbo
 - 👀 I’m interested in Observability, SRE, Automation 
-- 🌱   I’m currently learning about Monitoring Prometheus, Grafana, Zabbix, ELK Stack) and Automation(Ansible)
+- 🌱   I’m currently learning about Monitoring(Prometheus, Grafana, Zabbix, ELK Stack) and Automation(Ansible)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
